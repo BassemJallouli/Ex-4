@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\C-Sharp-Ex4\obj\Debug\netcoreapp3.1\C-Sharp-Ex4.csprojAssemblyReference.cache
+C:\Users\student\Desktop\C-Sharp-Ex4\obj\Debug\netcoreapp3.1\C-Sharp-Ex4.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\C-Sharp-Ex4\obj\Debug\netcoreapp3.1\C-Sharp-Ex4.AssemblyInfo.cs
+C:\Users\student\Desktop\C-Sharp-Ex4\bin\Debug\netcoreapp3.1\C-Sharp-Ex4.exe
+C:\Users\student\Desktop\C-Sharp-Ex4\bin\Debug\netcoreapp3.1\C-Sharp-Ex4.deps.json
+C:\Users\student\Desktop\C-Sharp-Ex4\bin\Debug\netcoreapp3.1\C-Sharp-Ex4.runtimeconfig.json
+C:\Users\student\Desktop\C-Sharp-Ex4\bin\Debug\netcoreapp3.1\C-Sharp-Ex4.runtimeconfig.dev.json
+C:\Users\student\Desktop\C-Sharp-Ex4\bin\Debug\netcoreapp3.1\C-Sharp-Ex4.dll
+C:\Users\student\Desktop\C-Sharp-Ex4\bin\Debug\netcoreapp3.1\C-Sharp-Ex4.pdb
+C:\Users\student\Desktop\C-Sharp-Ex4\obj\Debug\netcoreapp3.1\C-Sharp-Ex4.dll
+C:\Users\student\Desktop\C-Sharp-Ex4\obj\Debug\netcoreapp3.1\C-Sharp-Ex4.pdb
